@@ -69,4 +69,4 @@ def DM(username,password,person,dm):
     time.sleep(random.randint(1,3))
     messagebox.send_keys(Keys.RETURN)
     
-DM("testproject12345","testproject","digitaldaru","This message comes from selenium python for digitaldaru")    
+DM("YOUR_IG_USERNAME","YOUR_IG_PASSWORD","USERNAME_OF_THE_PERSON","MESSAGE_YOU_WANT_TO_SEND")    
